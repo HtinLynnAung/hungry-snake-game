@@ -1,5 +1,5 @@
 # Required modules
-pip install turtle 
+# pip install turtle 
 # import time
-pip install random
+# pip install random
 # import winsound
